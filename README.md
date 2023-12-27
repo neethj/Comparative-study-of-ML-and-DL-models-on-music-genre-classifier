@@ -16,5 +16,5 @@ Research Question 3: Deep Learning vs. Traditional Machine Learning
 The third research question focuses on comparing the performance of deep learning models (CNN, RNN-LSTM, MLP) with traditional machine learning models such as logistic regression, Support Vector Machines (SVM), and k-nearest Neighbors (KNN). This comparison provides insights into the effectiveness of deep learning in music genre classification compared to classical machine learning approaches.
 
 
-##Results
+## Results
 The CNN model trained using spectrogram shows an accuracy of 92%. The second best performing model is the RNN-LSTM model which displays an accuracy of 80% when trained using MFCC
