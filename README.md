@@ -17,4 +17,4 @@ The third research question focuses on comparing the performance of deep learnin
 
 
 ## Results
-The CNN model trained using spectrogram shows an accuracy of 92%. The second best performing model is the RNN-LSTM model which displays an accuracy of 80% when trained using MFCC
+The CNN model trained using spectrogram shows an accuracy of 92%. The second best performing model is the RNN-LSTM model which displays an accuracy of 80% when trained using MFCC. Deep learning models display higher performance compared to machine learning approaches in this study.
